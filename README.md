@@ -10,7 +10,9 @@ Finally, Grad-Cam is used to visualize the 4th last hidden layer on the trained 
 ## reference:
 
 [1] The Imagewoof dataset leaderbroad can be found [here](https://github.com/fastai/imagenette).
+
 [2] [Pytorch transfer learning tutorial](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html) 
+
 [3] [Imformative post about Grad-Cam](https://glassboxmedicine.com/2020/05/29/grad-cam-visual-explanations-from-deep-networks/)
 
 
